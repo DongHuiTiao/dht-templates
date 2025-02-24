@@ -10,6 +10,6 @@
 
 - [x] vue-ts
 - [x] express-ts
-- [ ] tauri-vue3-ts
+- [x] tauri2-vue3-ts
 - [ ] admin-vue3-ts
 - [ ] uniapp-vue3-ts
